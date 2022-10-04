@@ -52,10 +52,10 @@ _____
 #### Contacto 📱
 
 
-<a href="https://www.linkedin.com/in/nicolasdossantoscabrita/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99295940/193923863-2c38995e-eef5-4739-afaa-fa99721f4c38.png" alt="Nicolas dos Santos Cabrita" height="40" width="40" /> Linkedin</a>
+<a href="https://www.linkedin.com/in/nicolasdossantoscabrita/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99295940/193923863-2c38995e-eef5-4739-afaa-fa99721f4c38.png" alt="Nicolas dos Santos Cabrita" height="40" width="40" /></a>
 
 
-<a href="mailto:cabritanicolas@gmail.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/99295940/193924024-4aed9f15-6e00-4c26-97a7-46766634889b.png" alt="Nicolas dos Santos Cabrita" height="40" width="40" /> cabritanicolas@gmail.com</a>
+<a href="mailto:cabritanicolas@gmail.com " target="blank"><img align="center" src="https://user-images.githubusercontent.com/99295940/193924024-4aed9f15-6e00-4c26-97a7-46766634889b.png" alt="Nicolas dos Santos Cabrita" height="40" width="40" /></a>
 </p>
 
 
