@@ -1,6 +1,6 @@
 ### Mi nombre es Nicolás dos Santos Cabrita 👨‍💻
 #### Front End Junior 💻 
-#### En **búsqueda activa** de empleo ♨️
+#### En **búsqueda activa** de empleo 🕵️‍♂️
 
 #### Actualmente me dedico a:
 
@@ -13,7 +13,7 @@ ___
 #### Tengo conocimientos sobre:
 
 
-##### Lenguajes de Programación
+##### Lenguajes de Programación ⌨️
 
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://user-images.githubusercontent.com/99295940/193919002-b812b0e9-a48e-4ca0-81d0-61ed4565db3f.png" alt="javascript" width="65" height="65"/>
@@ -23,7 +23,7 @@ ___
 ____
 
 
-##### FrontEnd 
+##### FrontEnd 💻
 
 
 <p align="left>
@@ -33,14 +33,14 @@ ____
 ____
 
 
-##### Backend 
+##### Backend 🔌
 <p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/99295940/193921665-22c93eca-d837-4f34-b88b-560526e2c406.svg" alt="nodejs" width="65" height="65"/> </a> 
 </p>
 
 _____
 
 
- ##### Otros
+ ##### Otros 💽
  <p align="left"> 
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/99295940/193922323-db6d08d2-db93-455e-8d13-aad78534d33f.png" alt="firebase" width="65" height="65"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/99295940/193922635-f2e5f4b7-57ea-484c-89ce-dbbd1d33e459.png" alt="git" width="65" height="65"/>  </a>
@@ -49,7 +49,7 @@ _____
 _____
 
 
-#### Contacto 📱
+#### Contacto 📬
 
 
 <a href="https://www.linkedin.com/in/nicolasdossantoscabrita/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/99295940/193923863-2c38995e-eef5-4739-afaa-fa99721f4c38.png" alt="Nicolas dos Santos Cabrita" height="40" width="40" /></a>
